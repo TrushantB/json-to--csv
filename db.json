@@ -1,0 +1,47 @@
+{
+  "customer": [
+    {
+      "root1":[
+        {
+          "id": 1,
+          "name": "Jathar",
+          "buff": "1",
+          "cow": "2",
+          "date": "4/5/2019"
+        },
+        {
+          "id": 2,
+          "name": "Kulkarni",
+          "buff": "0.5",
+          "cow": "3",
+          "date": "5/5/2019"
+        },
+        {
+          "id": 3,
+          "name": "kakde",
+          "buff": "5",
+          "cow": "6",
+          "date": "6/5/2019"
+        }
+      ],
+      "root2":[
+        {
+          "id": 4,
+          "name": "yogita",
+          "buff": "1",
+          "cow": "2",
+          "date": "7/5/2019"
+        },
+        {
+          "id": 5,
+          "name": "Vanita",
+          "buff": "0.5",
+          "cow": "3",
+          "date": "8/5/2019"
+        }
+      ]
+    }
+   
+    
+  ]
+}
